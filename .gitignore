@@ -1,0 +1,40 @@
+# Environment / secrets
+.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archives
+*.zip
+
+# Screenshots and investigation images
+v2-multi-agent/screenshots/
+v2-multi-agent/investigation/
+v2-multi-agent/failures/
+
+# Logs and temp files
+v2-multi-agent/logs/
+*.log
+run_log.txt
+run_output.txt
+nul
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Claude Code local config
+.claude/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Debug HTML dumps
+step*_failed.html
+
+# Bundle (large generated file)
+v2-multi-agent/bundle.js

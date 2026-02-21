@@ -1,0 +1,238 @@
+{
+  "date": "2026-02-05T13:20:17.531316",
+  "model": "v2-multi-agent (vision-guided)",
+  "steps_completed": 21,
+  "total_steps": 30,
+  "total_time_sec": 258.81,
+  "steps": [
+    {
+      "step": 1,
+      "time_sec": 2.72,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "click_reveal",
+        "scroll"
+      ]
+    },
+    {
+      "step": 2,
+      "time_sec": 16.47,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "delay",
+        "vision",
+        "delay",
+        "code_entry"
+      ]
+    },
+    {
+      "step": 3,
+      "time_sec": 10.04,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "vision",
+        "scroll",
+        "extract_code_scored",
+        "code_entry"
+      ]
+    },
+    {
+      "step": 4,
+      "time_sec": 2.88,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "hidden_dom"
+      ]
+    },
+    {
+      "step": 5,
+      "time_sec": 2.26,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "click_reveal"
+      ]
+    },
+    {
+      "step": 6,
+      "time_sec": 17.09,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "memory",
+        "delay",
+        "vision",
+        "delay"
+      ]
+    },
+    {
+      "step": 7,
+      "time_sec": 2.93,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "verified_learning"
+      ]
+    },
+    {
+      "step": 8,
+      "time_sec": 3.4,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "click_reveal"
+      ]
+    },
+    {
+      "step": 9,
+      "time_sec": 26.25,
+      "success": true,
+      "agents_used": [
+        "recipe_executor"
+      ]
+    },
+    {
+      "step": 10,
+      "time_sec": 3.2,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "verified_learning"
+      ]
+    },
+    {
+      "step": 11,
+      "time_sec": 10.79,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "verified_learning"
+      ]
+    },
+    {
+      "step": 12,
+      "time_sec": 4.05,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "video"
+      ]
+    },
+    {
+      "step": 13,
+      "time_sec": 1.53,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "split_parts"
+      ]
+    },
+    {
+      "step": 14,
+      "time_sec": 12.7,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "vision",
+        "decode",
+        "code_entry"
+      ]
+    },
+    {
+      "step": 15,
+      "time_sec": 2.05,
+      "success": true,
+      "agents_used": [
+        "popup"
+      ]
+    },
+    {
+      "step": 16,
+      "time_sec": 22.4,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "sequence_challenge",
+        "hover"
+      ]
+    },
+    {
+      "step": 17,
+      "time_sec": 2.39,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "click_reveal",
+        "puzzle_solve"
+      ]
+    },
+    {
+      "step": 18,
+      "time_sec": 0.84,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "click_reveal",
+        "calculated"
+      ]
+    },
+    {
+      "step": 19,
+      "time_sec": 5.25,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "multi_tab"
+      ]
+    },
+    {
+      "step": 20,
+      "time_sec": 4.89,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "verified_learning"
+      ]
+    },
+    {
+      "step": 21,
+      "time_sec": 34.66,
+      "success": true,
+      "agents_used": [
+        "popup",
+        "vision",
+        "scroll",
+        "stored_knowledge",
+        "vision_learning"
+      ]
+    },
+    {
+      "step": 22,
+      "time_sec": 61.1,
+      "success": false,
+      "agents_used": [
+        "popup",
+        "click_reveal",
+        "vision",
+        "click_reveal",
+        "code_entry",
+        "stored_knowledge",
+        "vision_learning"
+      ]
+    },
+    {
+      "step": 23,
+      "time_sec": 0.0,
+      "success": false,
+      "agents_used": []
+    }
+  ],
+  "vision_calls": 6,
+  "input_tokens": 8603,
+  "output_tokens": 1092,
+  "estimated_cost_usd": 0.0422
+}

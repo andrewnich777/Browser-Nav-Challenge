@@ -1,0 +1,161 @@
+{
+  "date": "2026-02-02T17:19:04.726396",
+  "model": "none (deterministic reverse-engineered)",
+  "steps": [
+    {
+      "step": 1,
+      "time_sec": 2.19,
+      "success": true
+    },
+    {
+      "step": 2,
+      "time_sec": 1.9,
+      "success": true
+    },
+    {
+      "step": 3,
+      "time_sec": 2.44,
+      "success": true
+    },
+    {
+      "step": 4,
+      "time_sec": 2.45,
+      "success": true
+    },
+    {
+      "step": 5,
+      "time_sec": 2.41,
+      "success": true
+    },
+    {
+      "step": 6,
+      "time_sec": 1.92,
+      "success": true
+    },
+    {
+      "step": 7,
+      "time_sec": 1.91,
+      "success": true
+    },
+    {
+      "step": 8,
+      "time_sec": 3.24,
+      "success": true
+    },
+    {
+      "step": 9,
+      "time_sec": 1.93,
+      "success": true
+    },
+    {
+      "step": 10,
+      "time_sec": 3.5,
+      "success": true
+    },
+    {
+      "step": 11,
+      "time_sec": 2.44,
+      "success": true
+    },
+    {
+      "step": 12,
+      "time_sec": 3.08,
+      "success": true
+    },
+    {
+      "step": 13,
+      "time_sec": 2.44,
+      "success": true
+    },
+    {
+      "step": 14,
+      "time_sec": 1.94,
+      "success": true
+    },
+    {
+      "step": 15,
+      "time_sec": 1.9,
+      "success": true
+    },
+    {
+      "step": 16,
+      "time_sec": 2.95,
+      "success": true
+    },
+    {
+      "step": 17,
+      "time_sec": 1.89,
+      "success": true
+    },
+    {
+      "step": 18,
+      "time_sec": 2.71,
+      "success": true
+    },
+    {
+      "step": 19,
+      "time_sec": 2.99,
+      "success": true
+    },
+    {
+      "step": 20,
+      "time_sec": 4.33,
+      "success": true
+    },
+    {
+      "step": 21,
+      "time_sec": 1.92,
+      "success": true
+    },
+    {
+      "step": 22,
+      "time_sec": 2.7,
+      "success": true
+    },
+    {
+      "step": 23,
+      "time_sec": 3.24,
+      "success": true
+    },
+    {
+      "step": 24,
+      "time_sec": 2.45,
+      "success": true
+    },
+    {
+      "step": 25,
+      "time_sec": 2.71,
+      "success": true
+    },
+    {
+      "step": 26,
+      "time_sec": 3.87,
+      "success": true
+    },
+    {
+      "step": 27,
+      "time_sec": 1.91,
+      "success": true
+    },
+    {
+      "step": 28,
+      "time_sec": 2.19,
+      "success": true
+    },
+    {
+      "step": 29,
+      "time_sec": 1.65,
+      "success": true
+    },
+    {
+      "step": 30,
+      "time_sec": 2.2,
+      "success": true
+    }
+  ],
+  "total_time_sec": 75.38,
+  "steps_completed": 30,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "estimated_cost_usd": 0.0
+}

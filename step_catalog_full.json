@@ -1,0 +1,15 @@
+[
+  {
+    "step": 1,
+    "url": "https://serene-frangipane-7fd25b.netlify.app/step1?version=2",
+    "body_preview": "",
+    "inputs": [],
+    "has_slider": false,
+    "has_checkbox": false,
+    "has_select": false,
+    "has_textarea": false,
+    "has_canvas": false,
+    "button_count": 0,
+    "green_buttons": []
+  }
+]

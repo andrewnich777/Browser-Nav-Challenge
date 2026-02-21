@@ -1,0 +1,36 @@
+[
+  {
+    "step": 1,
+    "url": "https://serene-frangipane-7fd25b.netlify.app/step1?version=3",
+    "hint": "Scroll to Reveal: Scroll down at least 500px to reveal the code\n\nScrolled: 0px / 500px",
+    "body_preview": "Step 1 of 30 - Browser Navigation Challenge\nChallenge Step 1\n\nYou are on step 1. Complete the challenges and enter the code to proceed.\n\nScroll to Reveal: Scroll down at least 500px to reveal the code\n\nScrolled: 0px / 500px\n\nContinue\nProceed\nNext Section\nNext\nProceed Forward\nClick Here\nGo Forward\nMove On\nContinue Reading\nNext Step\nNext\nNext Step\nProceed Forward\nGo Forward\nProceed Forward\nScroll Down to Find Navigation\nSection 1\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 2\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 3\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 4\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 5\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 6\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 7\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 8\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 9\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 10\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 11\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 12\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 13\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 14\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 15\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 16\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 17\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 18\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 19\n\nThis is filler content. Keep scrolling to find the navigation button.\n\nSection 20",
+    "inputs": [
+      {
+        "type": "text",
+        "placeholder": "Enter 6-character code"
+      }
+    ],
+    "has_slider": false,
+    "has_checkbox": false,
+    "has_select": false,
+    "has_textarea": false,
+    "has_canvas": false,
+    "button_count": 38,
+    "green_buttons": [
+      "Submit Code"
+    ]
+  },
+  {
+    "step": 2,
+    "url": "https://serene-frangipane-7fd25b.netlify.app/step2?version=3",
+    "body_preview": "",
+    "inputs": [],
+    "has_slider": false,
+    "has_checkbox": false,
+    "has_select": false,
+    "has_textarea": false,
+    "has_canvas": false,
+    "button_count": 0,
+    "green_buttons": []
+  }
+]
